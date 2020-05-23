@@ -1,0 +1,4 @@
+[
+ {"keys": ["F11"], "command": "copy_pane_dir_path"},
+ {"keys": ["ctrl+shift+c"], "command": "copy_paths_to_clipboard"}
+]
